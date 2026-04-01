@@ -10,3 +10,4 @@
 5) Confirm mysql client was installed properly
 
 6) Connect to mysql database through the endpoint using the EC2 instance. The command is in commands.txt
+   Note: In the command -U= username, -P= password, -h= endpoint
