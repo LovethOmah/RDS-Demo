@@ -2,7 +2,8 @@
 mysql --version
 
 2) Connect to your database using your endpoint (specify your own endpoint):
-mysql -u acloudguru -p -h <YOUR_RDS_ENDPOINT> acloudguru
+mysql -u admin -p -h <YOUR_RDS_ENDPOINT> testdb
+
 
 3) Check the status of your database:
 status
